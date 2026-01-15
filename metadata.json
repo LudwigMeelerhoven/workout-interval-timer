@@ -1,0 +1,5 @@
+{
+  "name": "workout interval timer",
+  "description": "A workout timer with customizable exercises and rounds, featuring distinct phases, visual cues, and audio alerts.",
+  "requestFramePermissions": []
+}
