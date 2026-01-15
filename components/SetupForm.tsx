@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useState } from 'react';
 import { WorkoutConfig } from '../types';
 import { Play, Dumbbell, Repeat } from 'lucide-react';

@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useState } from 'react';
 import SetupForm from './components/SetupForm';
 import Timer from './components/Timer';

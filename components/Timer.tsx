@@ -1,3 +1,5 @@
+"use client";
+
 import React, { useEffect, useState, useRef, useCallback } from 'react';
 import { TimerState, WorkoutConfig } from '../types';
 import { playBeep } from '../utils/audio';
